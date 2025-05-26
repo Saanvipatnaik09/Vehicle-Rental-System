@@ -1,4 +1,4 @@
-# 🚗 Car Rental Management System
+# 🚗 Vehicle Rental Management System
 
 A web-based Car Rental Management System built with **Streamlit** and **MySQL**, designed to manage car rentals, returns, customer information, and admin operations through an intuitive UI.
 
